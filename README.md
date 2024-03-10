@@ -1,5 +1,5 @@
-# python-comprehension-list-tasks-circle-tasks
-Python Задачи на сокращенные списки, словари и наборы
+# python-comprehension-list-tasks
+Python Задачи на сокращенные списки и словари
 
 ## Задача 1 
 1. Создайте словарь с несколькими ключами, значения которых должны быть типа str
